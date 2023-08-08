@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to TAMTECH !!! </h1>
+<h1> Hello, Welcome to locuz !!! </h1>
 
